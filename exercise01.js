@@ -1,6 +1,6 @@
 // Exercise 1
-//Escreva um programa que recebe um número inteiro e verifica se ele é par ou ímpar
-//utilizando uma estrutura de controle if.
+// O programa recebe um número inteiro e verifica se ele é par ou ímpar utilizando uma estrutura de controle if.
+
 const prompt = require('prompt-sync')()
 
 let number = Number(prompt('Informe um número: '))
